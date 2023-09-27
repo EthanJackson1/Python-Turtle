@@ -9,7 +9,7 @@ Check out the official docs here: https://docs.python.org/3/library/turtle.html
 import turtle
 
 t = turtle.Turtle()
-
+1
 for c in ['red', 'green', 'blue', 'yellow']:
     t.color(c)
     t.forward(75)
